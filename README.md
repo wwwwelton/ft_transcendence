@@ -14,7 +14,7 @@ Overall, the platform should have a ranking system, chat channels, private messa
 
 The platform should have a ranking system, chat channels, direct messaging and allow, user status changes, friend features and some profile customization options.
 
-The main purpose is to play an implementation of [Pong](https://en.wikipedia.org/wiki/Pong), as if it was [1972.] all over again(https://www.youtube.com/watch?v=fiShX2pTz9A) There should be a few customization options such as custom maps or power-ups but the user should still be able to play the original version.
+The main purpose is to play an implementation of [Pong](https://en.wikipedia.org/wiki/Pong), as if it was [1972.](https://www.youtube.com/watch?v=fiShX2pTz9A) all over again There should be a few customization options such as custom maps or power-ups but the user should still be able to play the original version.
 A spectator system must be implemented, spectators are able to watch the match without interfering with it.
 
 Finally, the server structure must be containerized using [docker](https://www.docker.com/) and available with a single call of: **docker-compose up --build**.
